@@ -172,3 +172,7 @@ div p{
   font-size: 12px;
 
 }
+div h6,p{
+  text-align: center;
+  text-transform: uppercase;
+}
