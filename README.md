@@ -1,2 +1,2 @@
-# IntroducaoAoHtml
-Este site vai tratar sobre as tags html
+# MarcioTCC
+Este site será usado para explicar como funciona a responsividade de um site.
